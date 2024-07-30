@@ -10,9 +10,9 @@
 
 ## 實驗結果
 - ASC_IP_LRU:
--- cache_size:2748779070
--- 命中率:67%
+  - cache_size:2748779070
+  - 命中率:67%
   
 - ASC_IP_LECAR:
--- cache_size:2748779070
--- 命中率:63%
+  - cache_size:2748779070
+  - 命中率:63%
